@@ -1,0 +1,1 @@
+This is a project for ASTRO 534 in University of Michigan. Studing the large-scale structure of the Universe using TNG simulation and SDSS data using two point function and percolation analysis. See `clustering.ipynb` for the analysis.
